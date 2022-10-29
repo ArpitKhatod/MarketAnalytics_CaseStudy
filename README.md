@@ -4,7 +4,6 @@
 
 /* 
 Learning Outcomes
-The following SQL skills and concepts will be covered in this section of the Serious SQL course:
 
 1. Learning how to interpret ERDs for data literacy and business context (entity-relationship diagrams)
 	* Identify key columns of interest and how they are linked to other tables via foreign keys
